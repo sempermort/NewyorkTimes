@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .flex {
   display: flex;
   justify-content: space-between;
@@ -55,7 +59,7 @@ nav {
   background-color: rgb(50, 104, 145);
   font-weight: 500;
   border: none;
-  border-color: rgb(50, 104, 145);
+  border-color: rgb(50, 104, 146);
   padding: 10px 20px;
   border-radius: 3px;
 }
@@ -81,19 +85,18 @@ section {
   color: rgb(160, 160, 160);
   width: 70%;
 }
-
 .main-width {
   width: 50%;
   margin: 20px auto;
   line-height: 40px;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .icons {
   font-size: 20px;
   padding: 0 10px;
   width: 200px;
-  /* margin: 10px 0 10px 0; */
+  margin: 10px 0 10px 0;
 }
 
 .artc-h {
@@ -104,13 +107,13 @@ section {
   margin: 15px auto;
 }
 .editor-pick {
-  width: 150px;
+  width: 180px;
   text-align: center;
   float: right;
   margin: 1200px 50px 0 0;
 }
 
-.editor-pick figure {
+.editor-pick figure{
   padding: 5px;
   width: 100%;
 }
@@ -143,4 +146,23 @@ section {
   width: 600px;
   color: #bbb;
   line-height: 15px;
+}
+
+.article-end {
+  font-size: 12px;
+  color: rgb(155, 155, 155);
+}
+
+.article-footer button{
+  color: rgb(255, 255, 255);
+  background-color: rgb(50, 104, 147);
+  padding: 10px 20px;
+  cursor: pointer ;
+  font-weight: 500;
+  border: none;
+  border-radius: 3px;
+}
+
+.footer-icons {
+  width: 150px;
 }
