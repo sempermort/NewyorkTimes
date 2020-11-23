@@ -119,3 +119,10 @@ section {
 .inflation-div {
   width: 75%;
 }
+.margin-video{
+margin-left: 50px;
+}
+.img-w{
+    width: 100%;
+    height: auto;
+}
