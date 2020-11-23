@@ -21,6 +21,11 @@ body {
   margin: 0 auto;
 }
 
+.link {
+  text-decoration: underline;
+  color: rgb(38, 128, 245);
+}
+
 a {
   text-decoration: none;
   color: black;
@@ -122,14 +127,15 @@ section {
   width: 60px;
 }
 
+.inflation-div {
+  width: 75%;
+  font-size: 12px;
+}
+
 .inflation {
   grid-template-columns: repeat(4, 1fr);
   row-gap: 1em;
   column-gap: 1em;
-}
-
-.inflation-div {
-  width: 75%;
 }
 
 .margin-video{
@@ -165,4 +171,75 @@ section {
 
 .footer-icons {
   width: 150px;
+}
+
+.last-grid {
+  grid-template-columns: 2fr 1fr;
+  column-gap: 1em;
+  width: 95%;
+}
+
+
+.most-popular {
+  border-top: 1px solid black;
+  font-size: 16px;
+}
+
+.most-popular h4 {
+  padding: 12px;
+}
+
+.popular-items {
+  padding: 13px 0;
+  border-bottom: 1px solid #aaa;
+}
+
+.astronomy-item-div {
+  width: 600px;
+}
+
+.astronomy-item {
+  width: 300px;
+  padding: 10px 20px;
+}
+
+.astronomy-item img{
+  width: 100%;
+}
+
+.astronomy-2 {
+  width: 100%;
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.astronomy-3 {
+  width: 100%;
+}
+
+.last-picks {
+  margin: 30px 0 ;
+}
+
+.empty {
+  border-top: 1px solid rgb(182, 182, 182);
+  border-bottom: 1px solid rgb(182, 182, 184);
+  width: 99%;
+  height: 3px;
+}
+
+.links-grid {
+  width: 94%;
+}
+
+.last-links-head {
+  margin: 20px 0;
+  font-size: 12.1px ;
+}
+
+.last-links {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.links-box {
+  width: 80px;
 }
