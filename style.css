@@ -9,6 +9,10 @@
   justify-content: space-between;
 }
 
+.grid {
+  display: grid;
+}
+
 .margin {
   margin: 0 auto;
 }
@@ -91,7 +95,27 @@ section {
   margin: 15px auto;
 }
 .editor-pick {
-  width: 50%;
+  width: 150px;
   text-align: center;
   float: right;
+  margin: 1200px 50px 0 0;
+}
+
+.editor-pick figure{
+  padding: 5px;
+  width: 100%;
+}
+
+.editor-pick img {
+  width: 60px;
+}
+
+.inflation {
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 1em;
+  column-gap: 1em;
+}
+
+.inflation-div {
+  width: 75%;
 }
