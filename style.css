@@ -1,4 +1,4 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -9,16 +9,16 @@
   justify-content: space-between;
 }
 
-.margin{
+.margin {
   margin: 0 auto;
 }
 
-a{
+a {
   text-decoration: none;
   color: black;
 }
 
-nav{
+nav {
   position: fixed;
   top: 0;
   height: 50px;
@@ -34,19 +34,19 @@ nav{
   padding: 10px 15px;
 }
 
-.center{
+.center {
   padding: 10px 0;
 }
 
-.center img{
+.center img {
   width: 250px;
 }
 
-.last{
+.last {
   padding: 10px 20px;
 }
 
-.last button{
+.last button {
   color: white;
   background-color: rgb(50, 104, 145);
   font-weight: 500;
@@ -58,23 +58,40 @@ nav{
 
 section {
   width: 75%;
-  margin: 100px 0 0 0 ;
+  margin: 100px 0 0 0;
 }
 
-.main-header{
+.main-header {
   margin: 50px auto 20px auto;
   font-size: 25px;
   width: 600px;
   text-align: center;
   text-transform: italic;
-
 }
 
-.main-img{
+.main-img {
   width: 100%;
 }
 
-.main-img-container figcaption{
+.main-img-container figcaption {
   color: rgb(160, 160, 160);
   width: 70%;
+}
+.main-width {
+  width: 50%;
+  margin: 20px auto;
+  line-height: 40px;
+  font-size: 22px;
+}
+.artc-h {
+  margin: 15px 0px;
+}
+
+.margin-sec {
+  margin: 15px auto;
+}
+.editor-pick {
+  width: 50%;
+  text-align: center;
+  float: right;
 }
