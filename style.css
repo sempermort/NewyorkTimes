@@ -89,6 +89,13 @@ section {
   font-size: 22px;
 }
 
+.icons {
+  font-size: 20px;
+  padding: 0 10px;
+  width: 200px;
+  /* margin: 10px 0 10px 0; */
+}
+
 .artc-h {
   margin: 15px 0px;
 }
@@ -122,34 +129,18 @@ section {
   width: 75%;
 }
 
-.margin-video {
+.margin-video{
   margin-left: 50px;
 }
 
-.img-w {
+.img-w{
   width: 100%;
   height: auto;
 }
 
-.space-astro {
-   grid-template-rows: 80px 200px;
-  grid-gap: 10px; border-top: 1px black;
-  display: grid;
-  width: 70%;
-  padding: 10px;
-
-  margin: 0 10px;
-}
-
-.most-popular {
-  border-top: 1px black;
-  width: 30%;
-}
-
-.listed-articles {
-  border-top: 1px rgba(62, 55, 55, 0.6);
-}
-
-.article-container {
-  float: right;
+.jumbo-2{
+  font-size: 14px;
+  width: 600px;
+  color: #bbb;
+  line-height: 15px;
 }
