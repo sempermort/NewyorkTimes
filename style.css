@@ -87,6 +87,14 @@ section {
   line-height: 40px;
   font-size: 22px;
 }
+
+.icons {
+  font-size: 20px;
+  padding: 0 10px;
+  width: 200px;
+  /* margin: 10px 0 10px 0; */
+}
+
 .artc-h {
   margin: 15px 0px;
 }
@@ -119,10 +127,19 @@ section {
 .inflation-div {
   width: 75%;
 }
+
 .margin-video{
-margin-left: 50px;
+  margin-left: 50px;
 }
+
 .img-w{
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
+}
+
+.jumbo-2{
+  font-size: 14px;
+  width: 600px;
+  color: #bbb;
+  line-height: 15px;
 }
