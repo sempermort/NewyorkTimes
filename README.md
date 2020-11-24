@@ -7,10 +7,10 @@ This is a Clone of the Newtork Times Website to demonstrate the use of flex grid
 
 ## Buit with
 
--HTML
--CSS3
--Font awesome icons
--Google fonts
+- HTML
+- CSS3
+- Font awesome icons
+- Google fonts
 
 ## live Demo
 
