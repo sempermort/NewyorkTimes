@@ -18,29 +18,29 @@ Click! [Here](https://raw.githack.com/sempermort/NewyorkTimes/Developing/Index.h
 
 ## To get a local copy up and running follow these simple example steps.
 
-### Setup
+## Setup
 
 Clone the project locally.
 
-### Linters
+## Linters
 
 1. run npm install.
 2. run npm run test to check the Html and Css files.
 
-### Deployment
+## Deployment
 
 Install and run a live server plugin on you IDE/Text editor and run it from the root directory.
 
-### Authors
+## Authors
 - 👤 Jackson Morton [@sempermort](https://github.com/sempermort) 
 - 👤 Ralph Oburu [@Ralph-1](https://github.com/Ralph-1) 
 
 
-### Show your support
+## Show your support
 
 Give a ⭐️ if you like this project!
 
-### 📝 License
+## 📝 License
 
 This project is [MIT]licensed.
 
