@@ -1,6 +1,6 @@
 # Newyork Times Project 
 
-This is a Clone of the Newtork Times Website to demonstrate the use of flex grid and float
+This is a Clone of the Newyork Times Website to demonstrate the use of flex grid and float
 
 ## Screenshot of our cloned website
 ![The project is built using HTML and CSS with an extensive use of the grid, flex ,float and css properties. ](images/screenshort.jpg)
