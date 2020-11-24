@@ -1,4 +1,4 @@
-# Newyork Times Projrect 
+# Newyork Times Project 
 
 This is a Clone of the Newtork Times Website to demonstrate the use of flex grid and float
 
