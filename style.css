@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .flex {
@@ -78,8 +78,7 @@ section {
   margin: 100px auto 20px auto;
   font-size: 25px;
   width: 600px;
-  text-align: center;
-  text-transform: italic;
+  text-align: center; 
 }
 
 .main-img {
@@ -90,6 +89,7 @@ section {
   color: rgb(160, 160, 160);
   width: 70%;
 }
+
 .main-width {
   width: 50%;
   margin: 20px auto;
@@ -105,12 +105,13 @@ section {
 }
 
 .artc-h {
-  margin: 15px 0px;
+  margin: 15px 0;
 }
 
 .margin-sec {
   margin: 15px auto;
 }
+
 .editor-pick {
   width: 180px;
   text-align: center;
@@ -118,7 +119,7 @@ section {
   margin: 1200px 50px 0 0;
 }
 
-.editor-pick figure{
+.editor-pick figure {
   padding: 5px;
   width: 100%;
 }
@@ -138,16 +139,16 @@ section {
   column-gap: 1em;
 }
 
-.margin-video{
+.margin-video {
   margin-left: 50px;
 }
 
-.img-w{
+.img-w {
   width: 100%;
   height: auto;
 }
 
-.jumbo-2{
+.jumbo-2 {
   font-size: 14px;
   width: 600px;
   color: #bbb;
@@ -159,11 +160,11 @@ section {
   color: rgb(155, 155, 155);
 }
 
-.article-footer button{
+.article-footer button {
   color: rgb(255, 255, 255);
   background-color: rgb(50, 104, 147);
   padding: 10px 20px;
-  cursor: pointer ;
+  cursor: pointer;
   font-weight: 500;
   border: none;
   border-radius: 3px;
@@ -178,7 +179,6 @@ section {
   column-gap: 1em;
   width: 95%;
 }
-
 
 .most-popular {
   border-top: 1px solid black;
@@ -203,7 +203,7 @@ section {
   padding: 10px 20px;
 }
 
-.astronomy-item img{
+.astronomy-item img {
   width: 100%;
 }
 
@@ -217,7 +217,7 @@ section {
 }
 
 .last-picks {
-  margin: 30px 0 ;
+  margin: 30px 0;
 }
 
 .empty {
@@ -233,7 +233,7 @@ section {
 
 .last-links-head {
   margin: 20px 0;
-  font-size: 12.1px ;
+  font-size: 12.1px;
 }
 
 .last-links {
@@ -253,12 +253,12 @@ section {
 
 footer {
   font-size: 13px;
-  margin-top: 20px 0 100px 0;
+  margin: 20px 0 100px 0;
   padding: 20px;
   border-top: 1px solid rgb(196, 196, 196);
 }
 
-footer a{
+footer a {
   color: rgb(158, 158, 158);
 }
 
