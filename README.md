@@ -32,8 +32,8 @@ Clone the project locally.
 Install and run a live server plugin on you IDE/Text editor and run it from the root directory.
 
 ### Authors
--👤 Jackson Morton [@sempermort] (https://github.com/sempermort) 
--👤 Ralph Oburu [@Ralph-1] (https://github.com/Ralph-1) 
+- 👤 Jackson Morton [@sempermort] (https://github.com/sempermort) 
+- 👤 Ralph Oburu [@Ralph-1] (https://github.com/Ralph-1) 
 
 
 ### Show your support
