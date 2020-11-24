@@ -14,7 +14,7 @@ This is a Clone of the Newtork Times Website to demonstrate the use of flex grid
 
 ## live Demo
 
-Click![Here](https://raw.githack.com/sempermort/NewyorkTimes/Developing/Index.html)   
+Click! [Here](https://raw.githack.com/sempermort/NewyorkTimes/Developing/Index.html)   
 
 ## To get a local copy up and running follow these simple example steps.
 
