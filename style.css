@@ -277,10 +277,12 @@ footer a {
 }
 
 .comment-form {
-  margin: 250px 0 0 70%;
+  margin: 234px 0 0 57%;
   padding-left: 30px;
   padding-right: 30px;
   min-width: 400px;
+  position: absolute;
+  background-color: rgb(45, 55, 64);
 }
 
 .label-group {
@@ -329,6 +331,7 @@ fieldset {
 
 .text-center {
   text-align: center;
+  color: aliceblue;
 }
 
 .control-group input,
