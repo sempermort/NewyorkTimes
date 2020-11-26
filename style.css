@@ -283,6 +283,7 @@ footer a {
   min-width: 400px;
   position: absolute;
   background-color: rgb(45, 55, 64);
+  border-radius: 10px;
 }
 
 .label-group {
